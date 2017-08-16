@@ -41,6 +41,12 @@ ul{
 	display: inline-block;
 	width: 49%;
 }
+
+.logo__link{
+	text-decoration: none;
+	color: inherit;
+}
+
 .logo{
 	font-family: 'Roboto Black', sans-serif;
 	font-weight: normal;
